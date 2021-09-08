@@ -20,8 +20,15 @@ body
     border: 1px solid white;
 }
 
-.play
+.play, .primary
 {
     width: 75%;
     font-size: 25px;
+}
+
+.copy_right_footer
+{
+    background-color: #f5f5f5;
+    padding:10px;
+    margin-bottom: 0;
 }
